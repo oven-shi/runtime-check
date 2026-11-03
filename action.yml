@@ -1,0 +1,5 @@
+name: 'Runtime Check'
+description: 'runtime helper'
+runs:
+  using: 'node20'
+  main: 'index.js'
